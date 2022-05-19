@@ -219,6 +219,21 @@ hr {
 
 /* footer */
 
-#social li {
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 3%;
     color: #3a3a3a;
 }
